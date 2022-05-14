@@ -23,7 +23,7 @@ One of the most important features of the Random Forest Algorithm is that it can
 3.Each decision tree will generate an output.\
 4..Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
-## Program:
+## <br/><br/><br/><br/>Program:
 ```
 
 Program to implement random classification.
@@ -48,5 +48,5 @@ plt.title('Random Clasification Data with 2 classes')
 ![Screenshot 2022-04-19 180831](https://user-images.githubusercontent.com/75235427/164034571-b5e92132-3e35-4667-9731-92311e1c988a.jpg)
 
 
-## Result:
+## <br/>Result:
 Thus the random classifier was successfully implemented using python programming.
